@@ -9,7 +9,7 @@
 
 This project presents an innovative **self-adaptive differential amplifier circuit** that autonomously compensates for environmental variations such as voltage fluctuations and temperature changes. By integrating **machine learning algorithms** with traditional **BJT-based differential amplifier design** and Arduino microcontroller technology, the system dynamically optimizes performance parameters to maintain consistent gain and superior noise rejection across varying operating conditions.
 
-### 🎯 Key Features
+###  Key Features
 - **Real-time Environmental Adaptation**: Automatic adjustment to temperature and voltage variations
 - **ML-Driven Optimization**: Linear regression model for predictive gain control
 - **Hardware-Software Integration**: Seamless Arduino-based implementation
@@ -18,18 +18,18 @@ This project presents an innovative **self-adaptive differential amplifier circu
 
 ---
 
-## 🚀 Applications
+## Applications
 
 ### Primary Applications
-- **🎵 Audio Systems**: High-fidelity amplification with environmental stability
-- **🏥 Biomedical Devices**: ECG signal processing and medical instrumentation
-- **🎧 Noise-Canceling Technology**: Advanced audio processing systems
-- **📡 Communication Systems**: Signal conditioning and interference rejection
-- **🔬 Scientific Instrumentation**: Precision measurement applications
+- ** Audio Systems**: High-fidelity amplification with environmental stability
+- ** Biomedical Devices**: ECG signal processing and medical instrumentation
+- ** Noise-Canceling Technology**: Advanced audio processing systems
+- ** Communication Systems**: Signal conditioning and interference rejection
+- ** Scientific Instrumentation**: Precision measurement applications
 
 ---
 
-## 🛠️ Technical Architecture
+##  Technical Architecture
 
 ### Circuit Design Specifications
 
@@ -67,7 +67,7 @@ This project presents an innovative **self-adaptive differential amplifier circu
 
 ---
 
-## 🧠 Machine Learning Implementation
+##  Machine Learning Implementation
 
 ### Model Architecture
 **Algorithm**: Linear Regression
