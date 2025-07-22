@@ -202,3 +202,83 @@ void loop() {
 ## 📚 Project Resources
 
 ### Documentation and Media
+🔗 **[Complete Project Resources](https://1drv.ms/f/s!Ak3U5l5YbRRMgR9WnQs5xU5rS0Q0?e=G4tV4y)**
+
+Contains:
+- Circuit schematics and PCB layouts
+- LTSpice simulation files
+- Python ML training scripts
+- Arduino firmware source code
+- Demo videos and presentations
+- Performance analysis reports
+
+---
+
+## 👥 Contributors
+
+| Name | Role | Contribution |
+|------|------|-------------|
+| **Kashik P S** | ML Engineer | ML model development, LTSpice data generation |
+| **Sravani** | Circuit Designer | Circuit design, simulation, hardware testing |
+| **Ved Prakash** | Hardware Engineer | Sensor calibration, simulation, hardware testing |
+| **Rohan Kumar** | Systems Integrator | ML integration, Arduino coding, hardware testing |
+
+---
+
+## 🔮 Future Enhancements
+
+### Planned Improvements
+- **Neural Network Integration**: Advanced ML algorithms for non-linear optimization
+- **Multi-Parameter Control**: Expansion to frequency response adaptation
+- **Wireless Monitoring**: IoT integration for remote system monitoring
+- **Advanced Sensors**: Higher precision environmental sensing
+- **PCB Design**: Professional PCB layout for improved performance
+
+### Research Directions
+- **Adaptive Filter Design**: Self-tuning frequency response
+- **Power Optimization**: Energy-efficient operation modes
+- **Fault Detection**: Predictive maintenance capabilities
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+
+### Development Guidelines
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📞 Contact
+
+For questions, suggestions, or collaboration opportunities, please reach out to the project contributors or create an issue in this repository.
+
+---
+
+## 📖 Citations
+
+If you use this project in your research, please consider citing:
+
+```bibtex
+@misc{ml_adaptive_amplifier_2024,
+  title={ML-Driven Self-Adaptive Differential Amplifier},
+  author={Kashik P S and Sravani and Ved Prakash and Rohan Kumar},
+  year={2024},
+  howpublished={\url{https://github.com/your-username/ml-adaptive-differential-amplifier}}
+}
+```
+
+---
+
+*This project demonstrates the powerful intersection of analog electronics, machine learning, and embedded systems for next-generation adaptive circuit design.*
